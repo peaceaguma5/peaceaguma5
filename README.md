@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @peaceaguma5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning software engineering...
-- 💞️ I’m looking to collaborate on basic tasks that would be relevant to my level...
+- 👀 I’m interested in Data science and analytics
+- 💞️ I’m looking to collaborate on basic tasks that would be relevant to my career
 
 
 <!---
