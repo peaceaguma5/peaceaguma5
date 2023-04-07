@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peaceaguma5
+- 👋 Hi, I’m peace Aguma
 - 👀 I’m interested in Data science and analytics
 - 💞️ I’m looking to collaborate on basic tasks that would be relevant to my career
 
